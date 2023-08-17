@@ -1,0 +1,39 @@
+{
+    "name": "Telegraph Bot",
+    "description": "بوت رفع الصور والفيديوهات علي التيليجراف.!",
+    "logo": "https://telegra.ph/file/5c7062d9c18684d028ab1.jpg",
+    "keywords": [
+        "Telegraph",
+        "Uploader",
+        "Telegram Bot",
+        "marten bots"
+    ],
+    "repository": "https://github.com/XBOT-MAIN/TeleGraph",
+    "success_url": "https://t.me/botatiiii",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "تــوكــن بـــوتــكـ @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "الايــبــي هــاش my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "الايــبــي ايـــدي my.telegram.org",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
