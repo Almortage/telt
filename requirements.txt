@@ -1,5 +1,3 @@
+pyrogram
+tgcrypto
 telegraph
-Pillow
-Pyrogram
-TgCrypto
-aiohttp

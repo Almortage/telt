@@ -1,22 +1,4 @@
-<p align="center">
-  <img src="https://telegra.ph/file/5c7062d9c18684d028ab1.jpg">
-</p>
+<p align="center"><a href="https://t.me/DEV_VAMBIR"><img src="https://telegra.ph/file/61c2d9280c139b2aa3504.jpg"></a></p>
 
-
-
-
-## DEPLOY ON HEROKU 🚀
-
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/XBOT-MAIN/TeleGraph"><img align="center" alt="Heroku" width="52px" src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png"></p>
- 
-
-
-
-
-## VARS
-
-```
-API_ID :- GET IT FROM MY.TELEGRAM.ORG 
-API_HASH :- GET IT FROM MY.TELEGRAM.ORG
-TOKEN :- GET IT FROM @BOTFATHER
-```
+🌐 [𝗦𝗢𝗨𝗥𝗖𝗘 𝗩𝗔𝗠𝗕𝗜𝗥⚡](https://t.me/XxvprxX) 
+𝐁𝐲 ⚡» [ᯓ˹ 𝐕𝘼𝙈𝘽𝙄𝙍𖣥⃟⃟⃟⃟⃟🇵🇸فمـبــيرـ͢）️⛧✶](https://t.me/DEV_VAMBIR) ✅

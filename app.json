@@ -1,39 +1,37 @@
 {
-    "name": "Telegraph Bot",
-    "description": "بوت رفع الصور والفيديوهات علي التيليجراف.!",
-    "logo": "https://telegra.ph/file/5c7062d9c18684d028ab1.jpg",
+    "name": "MediaToTelegraphLink",
+    "description": "Powerful Telegram bot to generate Telegraph links for your media files. This bot can works also in group chats.",
+    "repository": "https://github.com/Almortage/tel",
     "keywords": [
-        "Telegraph",
-        "Uploader",
-        "Telegram Bot",
-        "marten bots"
+        "telegraph",
+        "telegraph link",
+        "generate telegraph links",
+        "media to telegraph link",
+        "telegram bot to generate telegraph links",
+        "bot to upload media to telegraph",
+        "Telegram bot",
+        "Pyrogram bot"
     ],
-    "repository": "https://github.com/Almortage/telt",
-    "success_url": "https://t.me/botatiiii",
     "env": {
-        "TG_BOT_TOKEN": {
-            "description": "تــوكــن بـــوتــكـ @BotFather",
-            "value": ""
+        "API_ID": {
+            "description": "Get from my.telegram.org/apps"
         },
         "API_HASH": {
-            "description": "الايــبــي هــاش my.telegram.org",
-            "value": ""
+            "description": "Get from my.telegram.org/apps"
         },
-        "APP_ID": {
-            "description": "الايــبــي ايـــدي my.telegram.org",
-            "value": ""
+        "BOT_TOKEN": {
+            "description": "Get from Telegram's @BotFather"
         }
     },
-    "addons": [],
+    "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
     "buildpacks": [
         {
             "url": "heroku/python"
         }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
-    }
+    ]
 }

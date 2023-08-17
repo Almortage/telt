@@ -1,1 +1,1 @@
-worker: python3 webot.py
+worker: python3 mediatotelegraphlink.py
