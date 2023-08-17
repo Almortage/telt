@@ -8,7 +8,7 @@
         "Telegram Bot",
         "marten bots"
     ],
-    "repository": "https://github.com/XBOT-MAIN/TeleGraph",
+    "repository": "https://github.com/Almortage/telt",
     "success_url": "https://t.me/botatiiii",
     "env": {
         "TG_BOT_TOKEN": {
