@@ -1,7 +1,6 @@
 import re
 import telebot
 from telebot.types import InlineKeyboardButton as b, InlineKeyboardMarkup as mk
-from kvsqlite.sync import Client
 import random
 from pyrogram import Client, filters
 from pyrogram.types import Message
