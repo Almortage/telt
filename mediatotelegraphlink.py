@@ -1,6 +1,7 @@
 import re
 import telebot
 from telebot.types import InlineKeyboardButton as b, InlineKeyboardMarkup as mk
+from teletips.sync import Client
 import random
 from pyrogram import Client, filters
 from pyrogram.types import Message
