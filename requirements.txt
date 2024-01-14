@@ -2,4 +2,3 @@ pyrogram
 tgcrypto
 telegraph
 telebot
-kvsqlite
